@@ -2,7 +2,7 @@
 
 # 👋🏼 Hi there! I'm Jhayr 🇵🇭
 
-[](https://official-personal-profile.vercel.app/)
+[personal profile](https://official-personal-profile.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=16&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Software+Engineer+%7C+TypeScript%2C+React%2C+Laravel%2C+NestJS%2C+PostgreSQL%2C+Python;APIs%2C+AI+Integration%2C+Automation%2C+DevOps+%26+System+Architecture)](https://git.io/typing-svg)
 

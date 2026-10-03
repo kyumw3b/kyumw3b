@@ -1,10 +1,11 @@
 <div align="center">
 
 # Hi, I'm Jhayr 👋
+**Full-Stack Software Engineer**
 
-### Full-Stack Software Engineer
+Building modern web systems with **TypeScript, React, Laravel, NestJS, PostgreSQL, Python**, and production-focused tooling.
 
-Building modern web systems with **TypeScript, React, Laravel, NestJS, PostgreSQL, Python, and production-focused tooling**.
+<img src="https://komarev.com/ghpvc/?username=kyumw3b&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -12,61 +13,47 @@ Building modern web systems with **TypeScript, React, Laravel, NestJS, PostgreSQ
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-### Frontend
-
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite&theme=dark" alt="Frontend technologies" />
 
-### Backend & APIs
-
+**Backend & APIs**  
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,fastapi&theme=dark" alt="Backend technologies" />
 
-### Database & Data
-
+**Database & Data**  
 <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&theme=dark" alt="Database technologies" />
 
-### Testing & Quality
-
+**Testing & Quality**  
 <img src="https://skillicons.dev/icons?i=jest,vitest,playwright&theme=dark" alt="Testing technologies" />
 
-### DevOps & Infrastructure
-
+**DevOps & Infrastructure**  
 <img src="https://skillicons.dev/icons?i=docker,linux,bash,githubactions,vercel,gcp&theme=dark" alt="DevOps technologies" />
 
-### Development Tools
-
+**Development Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools" />
-
-</div>
 
 ---
 
 ## 🔧 Engineering Areas
 
-`REST APIs` · `HTTP` · `Webhooks` · `Authentication` · `JWT / Cookies / Sessions` · `RBAC` · `OWASP Fundamentals` · `CI/CD` · `Docker Compose` · `Linux / SSH` · `System Architecture` · `ERDs` · `API Contracts` · `Monitoring` · `Automation` · `MCP` · `AI Tool Integration`
+`REST APIs` `HTTP` `Webhooks` `Authentication` `JWT / Cookies / Sessions` `RBAC` `OWASP Basics` `CI/CD` `Docker Compose` `Linux / SSH` `System Architecture` `ERDs` `API Contracts` `Monitoring` `Automation` `MCP` `AI Tool Integration`
 
 ---
 
-## 🚀 Current Technical Focus
+## 🚀 Current Focus
 
 - Building maintainable full-stack applications with **React + TypeScript**
 - Developing business systems with **Laravel + PostgreSQL**
 - Building APIs, integrations, and services with **NestJS**
 - Exploring AI/ML engineering with **Python, FastAPI, OpenCV, PyTorch, and scikit-learn**
-- Improving testing, deployment, Linux operations, CI/CD, and production observability
+- Improving testing, deployment, Linux operations, CI/CD, and observability
 
 ---
 
 <div align="center">
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyumw3b&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumw3b&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kyumw3b&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kyumw3b&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumw3b&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
 </div>

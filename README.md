@@ -29,21 +29,3 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/kyumw3b?tab=repositories">
-    <img
-      height="180"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=kyumw3b&theme=apprentice&hide_rank=true&show_icons=true&hide_border=false"
-      alt="Jhayr's GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/kyumw3b?tab=repositories">
-    <img
-      height="180"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumw3b&size_weight=0.2&count_weight=0.5&theme=apprentice&layout=compact&langs_count=6&hide=html,css"
-      alt="Jhayr's most used languages"
-    />
-  </a>
-</div>

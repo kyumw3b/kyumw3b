@@ -1,9 +1,27 @@
 <div align="center">
 
-# Hi, I'm kyumw3b 👋
-**Full-Stack Software Engineer**
+# 👋🏼 Hi there! I'm Jhayr 🇵🇭
+[@kyumw3b](https://github.com/kyumw3b)
 
-Building modern web systems with **TypeScript, React, Laravel, NestJS, PostgreSQL, Python**, and production-focused tooling.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=16&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Software+Engineer+%7C+TypeScript%2C+React%2C+Laravel%2C+NestJS%2C+PostgreSQL%2C+Python;APIs%2C+AI+Integration%2C+Automation%2C+DevOps+%26+System+Architecture)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,php,laravel,nodejs,nestjs,py,fastapi" alt="Core development stack" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,linux,bash,git,github,githubactions,vscode,postman" alt="Data, DevOps and development tools" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vercel,gcp,figma,obsidian" alt="Deployment, design and knowledge tools" />
+  </a>
+</p>
+
+<div align="center">
+
+`REST APIs` · `HTTP` · `Webhooks` · `JWT` · `Sessions` · `RBAC` · `OWASP` · `CI/CD` · `Docker Compose` · `SSH` · `ERDs` · `API Contracts` · `MCP` · `n8n`
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=kyumw3b&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
 
@@ -11,49 +29,21 @@ Building modern web systems with **TypeScript, React, Laravel, NestJS, PostgreSQ
 
 ---
 
-## 🧰 Tech Stack
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite&theme=dark" alt="Frontend technologies" />
-
-**Backend & APIs**  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,fastapi&theme=dark" alt="Backend technologies" />
-
-**Database & Data**  
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase&theme=dark" alt="Database technologies" />
-
-**Testing & Quality**  
-<img src="https://skillicons.dev/icons?i=jest,vitest,playwright&theme=dark" alt="Testing technologies" />
-
-**DevOps & Infrastructure**  
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,githubactions,vercel,gcp&theme=dark" alt="DevOps technologies" />
-
-**Development Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools" />
-
----
-
-## 🔧 Engineering Areas
-
-`REST APIs` `HTTP` `Webhooks` `Authentication` `JWT / Cookies / Sessions` `RBAC` `OWASP Basics` `CI/CD` `Docker Compose` `Linux / SSH` `System Architecture` `ERDs` `API Contracts` `Monitoring` `Automation` `MCP` `AI Tool Integration`
-
----
-
-## 🚀 Current Focus
-
-- Building maintainable full-stack applications with **React + TypeScript**
-- Developing business systems with **Laravel + PostgreSQL**
-- Building APIs, integrations, and services with **NestJS**
-- Exploring AI/ML engineering with **Python, FastAPI, OpenCV, PyTorch, and scikit-learn**
-- Improving testing, deployment, Linux operations, CI/CD, and observability
-
----
-
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kyumw3b&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumw3b&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-
+  <a href="https://github.com/kyumw3b?tab=repositories">
+    <img
+      height="180"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=kyumw3b&theme=apprentice&hide_rank=true&show_icons=true&hide_border=false"
+      alt="Jhayr's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/kyumw3b?tab=repositories">
+    <img
+      height="180"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyumw3b&size_weight=0.2&count_weight=0.5&theme=apprentice&layout=compact&langs_count=6&hide=html,css"
+      alt="Jhayr's most used languages"
+    />
+  </a>
 </div>
